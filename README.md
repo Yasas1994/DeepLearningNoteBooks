@@ -1,8 +1,9 @@
 # DeepLearningNoteBooks
 
-Tutorials for different deep learning models and architectures. Notebooks will cover topics such as
+Tutorials for different deep learning models and architectures. <br>
+here we will cover topics such as,
 
- -> Graph neural networks
- -> Convolutional neural networks
- -> Neural networks for genomics
+ <br> -> Graph neural networks
+ <br> -> Convolutional neural networks
+ <br> -> Neural networks for genomics
  
